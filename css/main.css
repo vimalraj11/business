@@ -314,8 +314,8 @@
     }
     .text5{
       position: absolute;
-      top: 2000px;
-      left: 311px;
+      top: 2100px;
+      left: 430px;
       width: 70px;
       height: 367px;
       transform: matrix(0, -1, 1, 0, 0, 0);
@@ -326,6 +326,83 @@
       letter-spacing: 26.5px;
       color: #1B1720;
       opacity: 0.5;
+    }
+    .text6{
+      position: absolute;
+      top: 1942px;
+      left: 464px;
+      width: 372px;
+      height: 160px;
+      color: var(--unnamed-color-1b1720);
+      text-align: left;
+      font: normal normal bold 60px/80px Prompt;
+      font-family: Arial, Helvetica, sans-serif;
+      letter-spacing: 0px;
+      color: #1B1720;
+      text-transform: lowercase;
+      opacity: 1;
+    }
+    .text7{
+      position: absolute;
+      top: 2141px;
+      left: 464px;
+      width: 795px;
+      height: 64px;
+      color: var(--unnamed-color-1b1720);
+      text-align: left;
+      font: normal normal 300 20px/27px Prompt;
+      font-family: Arial, Helvetica, sans-serif;
+      letter-spacing: 0px;
+      color: #1B1720;
+      text-transform: lowercase;
+      opacity: 1;
+    }
+    .circle1{
+      position: absolute;
+      top: 2376px;
+      left: 310px;
+      width: 24px;
+      height: 24px;
+      background: var(--unnamed-color-b2bb22) 0% 0% no-repeat padding-box;
+      background: #B2BB22 0% 0% no-repeat padding-box;
+      opacity: 1;
+      border-radius: 30px;
+    }
+    .circle2{
+      position: absolute;
+      top: 2376px;
+      left: 347px;
+      width: 24px;
+      height: 24px;
+      background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+      background: #FFFFFF 0% 0% no-repeat padding-box;
+      border: 1px solid #707070;
+      opacity: 1;
+      border-radius: 30px;
+    }
+    .circle3{
+      position: absolute;
+      top: 2376px;
+      left: 384px;
+      width: 24px;
+      height: 24px;
+      background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+      background: #FFFFFF 0% 0% no-repeat padding-box;
+      border: 1px solid #707070;
+      opacity: 1;
+      border-radius: 30px;
+    }
+    .circle4{
+      position: absolute;
+      top: 2376px;
+      left: 421px;
+      width: 24px;
+      height: 24px;
+      background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+      background: #FFFFFF 0% 0% no-repeat padding-box;
+      border: 1px solid #707070;
+      opacity: 1;
+      border-radius: 30px;
     }
     .img4{
       position: absolute;
